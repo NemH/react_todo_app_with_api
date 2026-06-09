@@ -1,9 +1,48 @@
-# React TypeScript Starter Pack
+# React ToDo App with API | [DEMO]()
 
-To use this template click `Use this template`
+A modern React + TypeScript Todo application with full CRUD functionality, integrated with a backend API. The project features smooth UI transitions, responsive design, and client-side routing.
 
-### Available Scripts
+## 🛠️ Technologies & Tools Used:
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+- React 18 + TypeScript — core library and typed components ⚛️
+- Bulma CSS — responsive styling framework 🎨
+- Sass (SCSS) — custom styles 🖌️
+- Vite — development server and build tool 🚀
+- gh-pages — deployment to GitHub Pages 📦
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+## 🌟 Features:
+- CRUD Tasks — add, edit, delete, and toggle tasks ✅
+- Persistent State — data stored and synced via API 🔄
+- Animated Transitions — smooth UI animations for tasks 🎬
+- Responsive Layout — works on both desktop and mobile devices 📱💻
+
+## 🚀 How to Run the Project Locally
+Follow these steps to run the project locally:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/NemH/react_todo-app-with-api.git
+```
+
+### 2. Navigate to the project directory
+
+```bash
+cd js_game_2048
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Run the project locally
+
+```bash
+npm start
+```
+
+The application will be available at http://localhost:5173.
+
+The production-ready files will be generated in the dist folder.
