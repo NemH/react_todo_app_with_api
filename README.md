@@ -1,6 +1,6 @@
 # React ToDo App with API | [DEMO](https://nemh.github.io/react_todo_app_with_api/)
 
-A modern React + TypeScript Todo application with full CRUD functionality, integrated with a backend API. The project features smooth UI transitions, responsive design, and client-side routing.
+A modern React + TypeScript Todo application with full CRUD functionality, integrated with a backend API. The project features smooth UI transitions, responsive design.
 
 ## 🛠️ Technologies & Tools Used:
 
