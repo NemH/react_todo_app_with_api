@@ -1,4 +1,4 @@
-# React ToDo App with API | [DEMO]()
+# React ToDo App with API | [DEMO](https://nemh.github.io/react_todo_app_with_api/)
 
 A modern React + TypeScript Todo application with full CRUD functionality, integrated with a backend API. The project features smooth UI transitions, responsive design, and client-side routing.
 
@@ -22,13 +22,13 @@ Follow these steps to run the project locally:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/NemH/react_todo-app-with-api.git
+git clone https://github.com/NemH/react_todo_app_with_api.git
 ```
 
 ### 2. Navigate to the project directory
 
 ```bash
-cd js_game_2048
+cd react_todo_app_with_api
 ```
 
 ### 3. Install dependencies
